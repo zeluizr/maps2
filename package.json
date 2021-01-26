@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "global": "^4.4.0",
-    "topojson": "1.6.27"
-  }
-}
